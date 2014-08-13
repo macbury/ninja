@@ -1,0 +1,2 @@
+= Tutorial starts here:
+http://macbury.ninja/2014/8/writing-game-using-phaser-js-in-ruby-on-rails
